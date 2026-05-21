@@ -5,6 +5,7 @@
 
 ## 🥇 Careers
 
+- [Scale](https://scale.com) Staff Software Engineer - Developer Experience | Platform (2026.05 - Present)
 - [Peloton](https://onepeloton.com) Staff Site Reliability Engineer - Developer Experience (2023.04 - 2026.02)
 - [Twitter](https://twitter.com) Staff Software Engineer (2021 - 2023)
 - [Conductor](https://conductor.com) Principal Software Development Engineer in Test (2018 - 2021)
